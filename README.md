@@ -409,6 +409,22 @@ It's a great way to learn.
 * [**Python**: _Implementing a RESTful Web API with Python & Flask_](http://blog.luisrei.com/articles/flaskrest.html)
 * [**Ruby**: _Building a simple websockets server from scratch in Ruby_](http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/)
 
+#### Build your own `JVM`
+* [**Java**： mini-jvm - 用JDK8实现JVM，完成度较高](https://github.com/guxingke/mini-jvm)
+* [**Java/Rust**： mini-jvm-x - 用多语言（C/JDK17/Rust）实现JVM](https://github.com/guxingke/mini-jvm-x)
+* [**Java**： jvm-study - 用JDK8实现JVM，比较简单](https://gitee.com/jz_zzh/jvm-study)
+* [**Rust**： jvm-rust - 用Rust实现JVM](https://gitee.com/lx857/jvm-rust)
+* [**Golang**： jvm.go - 用Golang实现JVM，完成度很高](https://github.com/zxh0/jvm.go)
+* [**Golang**： nzp-jvm - 用Golang实现JVM](https://gitee.com/zhipengnie/nzp-jvm)
+* [**Golang**： jvm.1.8.go - 用Golang实现JVM](https://gitee.com/ceco3000/jvm.1.8.go)
+* [**Golang**： simple-jvm-compiler - 用Golang实现JVM](https://gitee.com/ni-zewen/simple-jvm-compiler)
+
+#### Build your own `RPC&MicroServices`
+
+#### Build your own `Message Queue`
+
+#### Build your own `API Gateway`
+
 #### Uncategorized
 
 * [**(any)**: _From NAND to Tetris: Building a Modern Computer From First Principles_](http://nand2tetris.org/)
